@@ -1,6 +1,3 @@
-Here’s an improved version of your README file with better clarity, structure, and professionalism:  
-
----
 
 # **Super Mario Engine**  
 
@@ -38,6 +35,3 @@ Follow these steps to download and run the game:
   - Use the **scroll wheel** to zoom in and out.  
   - Menus can be moved and resized freely to fit your preference.  
 
----
-
-This version enhances clarity, improves formatting, and provides a more professional and engaging presentation. Let me know if you’d like any adjustments! 🚀
