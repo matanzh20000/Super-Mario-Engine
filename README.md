@@ -7,7 +7,7 @@ Please follow these instructions to download and run the game:
 1. Navigate to the **Green Code** tab and select the **"Download ZIP"** option.  
 2. Once the download is complete, extract the contents of the ZIP file to a preferred location on your computer.  
 3. Locate the extracted folder and double-click on the **"mario-1.0-SNAPSHOT-all.jar"** file to launch the game.
-4. **make sure a java version is downloaded on your PC prior** 
+4. **make sure JDK of version 17+ is downloaded on your PC prior** 
 
 # Notes
 1. To play, press the Play button or **Ctrl + P**. To stop, press the Stop button or **Ctrl + S**.
